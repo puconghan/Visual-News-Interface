@@ -1,6 +1,7 @@
-###################
+####################################################################################
 ## Constants Module
-###################
+# Description: Storing constant for hand gesture detector and real time video camera
+####################################################################################
 
 ##Hue/Intensity Gesture Skin Detector Constants
 class SkinCons(object):

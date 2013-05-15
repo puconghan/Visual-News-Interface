@@ -1,6 +1,7 @@
-#######################
+#########################################################
 ## Skin Detector Module
-#######################
+# Description: Application for computing skin of an image
+#########################################################
 
 import cv
 import imgproc

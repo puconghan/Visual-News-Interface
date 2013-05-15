@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
-#####################################
+####################################################################
 ## News Searching and Filtering Model
-#####################################
+# Description: Application for searching and filtering news articles
+####################################################################
 
 from bs4 import BeautifulSoup
 import urllib2

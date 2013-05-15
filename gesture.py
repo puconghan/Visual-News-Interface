@@ -1,6 +1,7 @@
-#############################
+#######################################################
 ## Gesture Recognition Module
-#############################
+# Description: Application for hand gesture recognition
+#######################################################
 
 from constants import GesCons
 import imgproc

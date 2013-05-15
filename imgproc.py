@@ -1,6 +1,7 @@
-##########################
+########################################################
 ## Image Processing Module
-##########################
+# Description: Application for image prcessing functions
+########################################################
 
 
 import numpy
