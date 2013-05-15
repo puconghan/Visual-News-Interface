@@ -5,9 +5,6 @@
 #               It assists audiences with disabilities to better access
 #               audiable news articles.
 # References:   BeautifulSoup and Python OpenCV
-# Author:
-#               Pucong Han (ph2369)
-#               Shujian Bu (sb3331)
 ##########################################################################
 
 import subprocess
